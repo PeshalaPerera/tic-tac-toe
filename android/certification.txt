@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the TicTacToeScriptAura 1.0
+---------------------------------------------------
+
+app_name - 						TicTacToeScriptAura
+app_alias - 					tictactoescriptaura
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Overijssel
+app_author_country - 			Netherlands
+app_password - 					e1EU8YZgKtuV
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Sunday 2nd of June 2024 02:12:04 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
